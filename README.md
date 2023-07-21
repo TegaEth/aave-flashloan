@@ -2,7 +2,6 @@
 
 ![Aave Banner](box-img-sm.png)
 
-*Adapted from [aave/flashloan-box](https://github.com/aave/flashloan-box) by [mrdavey](https://github.com/mrdavey/).*
 
 This Brownie mix comes with everything you need to start [developing on flash loans](https://docs.aave.com/developers/guides/flash-loans).
 
