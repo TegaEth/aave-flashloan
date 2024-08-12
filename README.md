@@ -290,13 +290,3 @@ $ brownie run scripts/deployment_v2.py --network mainnet
 ### No access to archive state errors
 
 If you are using Ganache to fork a network, then you may have issues with the blockchain archive state every 30 minutes. This is due to your node provider (i.e. Infura) only allowing free users access to 30 minutes of archive state. To solve this, upgrade to a paid plan, or simply restart your ganache instance and redploy your contracts.
-
-## Troubleshooting
-
-See our [Troubleshooting Errors](https://docs.aave.com/developers/tutorials/troubleshooting-errors) documentation.
-
-# Resources
-
- - Aave [flash loan documentation](https://docs.aave.com/developers/guides/flash-loans)
- - Aave [Developer Discord channel](https://discord.gg/CJm5Jt3)
- - Brownie [Gitter channel](https://gitter.im/eth-brownie/community)
